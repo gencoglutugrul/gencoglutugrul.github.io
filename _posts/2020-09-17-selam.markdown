@@ -2,7 +2,6 @@
 layout: post
 title:  "Selam!"
 date:   2020-09-17 12:23:00
-category:
 ---
 Ne zaman bir blog tutmaya karar versem kesinlikle ilk yazım neredeyse tüm yazılımcılar gibi benim de "Hello, World!" ya da "Merhaba, Dünya!" olurdu. Ama bu sefer farklı bir giriş yapmak istedim. Çünkü bu blogda pek de yazılım işlerine girmek istemiyorum - tamam belki nadiren girerim - daha doğrusu dökümantasyon hazırlar gibi blog yazısı yazmanın mantıklı olmadığını düşünüyorum. "Nasıl Yapılır?" yerine "Nasıl Yaptım?" sorusunu cevaplamak blog tutmak için çok daha mantıklı olacaktır. Aslında sadece yazılımla veya teknolojiyle falan ilgili şeylerin üstüme yapışmasını ve diğer konulara engel olmasını istemediğim için bu konuda biraz hassasım. 
 
