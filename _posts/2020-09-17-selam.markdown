@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Selam!"
+date:   2020-09-17 12:23:00
+category:
+---
+Ne zaman bir blog tutmaya karar versem kesinlikle ilk yazım neredeyse tüm yazılımcılar gibi benim de "Hello, World!" ya da "Merhaba, Dünya!" olurdu. Ama bu sefer farklı bir giriş yapmak istedim. Çünkü bu blogda pek de yazılım işlerine girmek istemiyorum - tamam belki nadiren girerim - daha doğrusu dökümantasyon hazırlar gibi blog yazısı yazmanın mantıklı olmadığını düşünüyorum. "Nasıl Yapılır?" yerine "Nasıl Yaptım?" sorusunu cevaplamak blog tutmak için çok daha mantıklı olacaktır. Aslında sadece yazılımla veya teknolojiyle falan ilgili şeylerin üstüme yapışmasını ve diğer konulara engel olmasını istemediğim için bu konuda biraz hassasım. 
+
+Peki neler yazacağım bu blogda? Canım ne isterse onu yazacağım herhangi bir sınırlandırma yapmadım. İleriye dönük olarak kafamda politik, geyik, kitap tanıtımı, üniversitem ve bölümüm hakkında düşündüklerim belki uğraşırsam biraz elektronik projeleri aklıma ilk gelenler. Doğrusu her telden çalmak istiyorum. Az kalsın unutuyordum bir de müzik var tabii, belki yeni black/death metal parçalarının bende bıraktığı izlenimle ilgili bir şeyler de karalayabilirim. Genel olarak böyle...
+
+Sıradaki yazıya dair kafamda henüz bir şey yok. Ne zaman yazacağıma dair de bir fikir yok. Ama genel olarak ayda bir yazı yazmak hedefim olacak. Belki yazdıkça bu süreci daha da kısaltırım.
+
+Şimdilik bu kadar bir sonraki blogumda görüşmek dileğiyle öptüm :D
