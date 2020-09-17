@@ -1,19 +1,18 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Tuğrul Gençoğlu
+description: Karalıyorum bir şeyler...
+meta_description: "Tuğrul Gençoğlu, kişisel blog"
 
 markdown: kramdown
 highlighter: rouge
+future: true
 logo: false
 paginate: 15
-baseurl: /kasper
-domain_name: "http://yourblog-domain.com"
-google_analytics: "UA-XXXXXXXX-X"
+baseurl: /
+domain_name: "http://gencoglutugrul.com"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url: ""
-author: "Your Name"
 
 # Disqus config
 disqus-shortname: ""
