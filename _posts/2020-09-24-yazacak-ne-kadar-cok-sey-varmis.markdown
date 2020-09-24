@@ -9,7 +9,7 @@ Geçenlerde Doç. Dr. İlker Belek Hocamızın kitabı çıktı. Kitabın çık�
 
 ![AKP'li Yıllarda Sağlık](/assets/images/ibelek-akpli-yillarda-saglik.jpeg "AKP'li Yıllarda Sağlık")
 
-Bu arada kitabı çıktı demişken onu da tavsiye edeyim. Henüz ben de okumadım ancak hiç şüphem yok ki en kısa zamanda okuyacağım. Daha önce kendisinin _Kapitalizmde Sınıf_ _Dinin Toplumsal Kökenleri_ kitaplarını okumuştum. En kısa sürede bu yeni çıkan kitabını ve daha önce okumadığım _Marksizm, Sınıf Bilinci, Siyaset_ kitabını okumak istiyorum. Hatta bu yazı bitince sipariş edeceğim :D
+Bu arada kitabı çıktı demişken onu da tavsiye edeyim. Henüz ben de okumadım ancak hiç şüphem yok ki en kısa zamanda okuyacağım. Daha önce kendisinin _Kapitalizmde Sınıf_ ve _Dinin Toplumsal Kökenleri_ kitaplarını okumuştum. En kısa sürede bu yeni çıkan kitabını ve daha önce okumadığım _Marksizm, Sınıf Bilinci, Siyaset_ kitabını okumak istiyorum. Hatta bu yazı bitince sipariş edeceğim :D
 
 İlker Hocanın blogunu ilk gördüğümde "[Okullar Bu Ortamda Açılabilir mi?](https://drilkerbelek.blogspot.com/2020/09/bu-ortamda-aclabilir-mi-bu-ortamderken.html)" yazısını okumuştum. Aç parantez zaten daha başka yazısını okumadım ama bugün yarın okuyacağım kapa parantez. Yazı herkesin anlayabileceği şekilde okulların neden açılamayacağını tartışıyor ve bu koşullarda açılmaması gerektiğini söylüyor. İlker Hocam üniversiteler zaten açılmayacağı için esas açılması tartışılan lise ve ilköğretim okulları üzerinden bu konuyu ele almış. Dolayısıyla yazıyı okurken üniversitelerin durumunu düşündüm. Çünkü üniversiteliyim :D 
 
