@@ -50,8 +50,14 @@ about: 'about.html'
             {% if post.categories.size > 0 %} 
                 {{ post.categories | array_to_sentence_string | prepend: 'on ' }} 
             {% endif %}
+
+            {% assign months = "Ocak,Şubat,Mart,Nisan,Mayıs,Haziran,Temmuz,Ağustos,Eylül,Ekim,Kasım,Aralık" | split: "," %}
+            {% assign m = post.date | date: "%-m" | minus: 1 %}
+            {% assign day = post.date | date: "%d" %}
+            {% assign month = months[m] %}
+            {% assign year = post.date | date: "%Y" %}
             <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
-                {{ post.date | date_to_string }}
+                {{ day }} {{ month }} {{ year }}
             </time> 
         </footer>
     </article>
