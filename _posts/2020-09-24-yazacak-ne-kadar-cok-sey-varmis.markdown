@@ -3,7 +3,7 @@ layout: post
 title:  "Yazacak Ne Kadar Çok Şey Varmış..."
 date:   2020-09-24 20:10:00
 ---
-Yaşadığımız ülke ve içinde bulunduğumuz sistem sağ olsun her gün ilginç bir şeyler oluyor. Bazen gerçekten garip ve şaşırtıcı bazen ise üzücü şeyler. Elbette mutlu eden şeyler de. Dolayısıyla farkettim ki yazacak gerçekten çok şey varmış. Şimdi ilk başta "Yazacak bir şey bulabilir miyim?" olan kafamdaki soru işareti yerini "Hangisini yazsam? Hepsini yazsam acaba zaman ayırmama değer mi?" ile yer değiştirdi.
+Yaşadığımız ülke ve içinde bulunduğumuz sistem sağ olsun her gün ilginç bir şeyler oluyor. Bazen gerçekten garip ve şaşırtıcı bazen ise üzücü şeyler. Elbette mutlu eden şeyler de. Dolayısıyla fark ettim ki yazacak gerçekten çok şey varmış. Şimdi ilk başta "Yazacak bir şey bulabilir miyim?" olan kafamdaki soru işareti yerini "Hangisini yazsam? Hepsini yazsam acaba zaman ayırmama değer mi?" ile yer değiştirdi.
 
 Geçenlerde Doç. Dr. İlker Belek Hocamızın kitabı çıktı. Kitabın çıkışıyla beraber İlker Hoca Twitter hesabı ve bir blog açmış. O blogda halk sağlıyla ilgili yazılarını yazıyor. Pandemi süreciyle ilgili de bolca yazısı mevcut. Mutlaka takip edin derim. [https://drilkerbelek.blogspot.com/](https://drilkerbelek.blogspot.com/)
 
