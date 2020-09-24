@@ -30,27 +30,13 @@ post_class: post-template
             <h5>Archive</h5>
             <ul>
                 {% for post in site.posts %}
-                    <li><span>{{ post.date | date_to_string }}</span>  <a href="{{ post.url  | relative_url}}">{{ post.title }}</a></li>
+                    <li><span>{{ post.date | date_to_long_string }}</span>  <a href="{{ post.url  | relative_url}}">{{ post.title }}</a></li>
                 {% endfor %}
             </ul>
         </section>
         {% endif %}
 
         <footer class="post-footer">
-            <!-- If we want to display author's name and bio -->
-            {% if site.author %}
-                <figure class="author-image">
-                    <a class="img" href="{{'/' | relative_url }}" style="background-image: url({{'/assets/images/profile.png' | relative_url}})">
-                    <span class="hidden">{{site.author}}'s Picture</span></a>
-                </figure>
-                <section class="author">
-                    <!-- Author Name -->
-                    <h4> {{ site.author }} </h4>
-                    <!-- Author Bio -->
-                    
-                </section>
-            {% endif %}
-
             <!-- Share links section -->
             {% include share.html %}
 
