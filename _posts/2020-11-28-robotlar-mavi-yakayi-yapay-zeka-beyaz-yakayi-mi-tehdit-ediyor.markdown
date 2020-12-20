@@ -20,9 +20,6 @@ Kayınvalidesi hasta olur mu? ....\
 
 Bu ara konudan sonra konu başka bir yere gidiyor ve oradan da toparlanıyor. 
 
- ![Robotların İstilası - Umut Sarıkaya](/assets/images/umut-sarikaya-robotlarin-istilasi.jpg)
-*Umut Sarıkaya - Robotların İstilası*
-
 Bilenler bilir yapay zeka dünyayı ele geçirecek her şey boku yiyecek robotlar anamızı belleyecek tadındaki konuşmalardan nefret ederim ve çok fena tetiklenirim. Çünkü **BUNUN HİÇBİR GERÇEKLİĞİ YOK!** Akıl sağlığı yerinde olan bir *Bilgisayar Bilimleri* öğrencisi olarak bunu söylüyorum. Akıl sağlığı yerinde olmayan ya da yapay zeka ile alakalı pek bir şey bilmeden her yerde yapay zeka üzerine konuşmayı çok seven liboş filozoflar tersini iddia edebilir.
 
 
