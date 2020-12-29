@@ -1,0 +1,15 @@
+{% assign months = "Ocak, Şubat, Mart, Nisan, Mayıs, Haziran, Temmuz, Ağustos, Eylül, Ekim, Kasım, Aralık" | split: ", " %}
+{% assign m = page.date | date: "%-m" | minus: 1 %}
+{% assign month = months[m] %}
+
+{% assign days = "Pazar, Pazartesi, Salı, Çarşamba, Perşembe, Cuma, Cumartesi" | split: ", " %}
+{% assign d = page.date | date: "%-w" | minus: 0 %}
+{% assign day = days[d] %}
+
+
+<time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">
+    {{ page.date | date: "%d" }} 
+    {{ month }} 
+    {{ page.date | date: "%Y" }}, 
+    {{ day }}
+</time>

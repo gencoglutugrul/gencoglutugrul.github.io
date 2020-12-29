@@ -17,13 +17,8 @@ post_class: post-template
                 {% if page.categories.size > 0 %}
                     {{ page.categories | array_to_sentence_string | prepend: 'on ' }}
                 {% endif %}
-                {% assign months = "Ocak,Şubat,Mart,Nisan,Mayıs,Haziran,Temmuz,Ağustos,Eylül,Ekim,Kasım,Aralık" | split: "," %}
-                {% assign m = page.date | date: "%-m" | minus: 1 %}
-                {% assign day = page.date | date: "%d" %}
-                {% assign month = months[m] %}
-                {% assign year = page.date | date: "%Y" %}
-                    
-                <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ day }} {{ month }} {{ year }}</time>
+                {% include read_time.html %}
+                {% include turkish_date.html %}
             </section>
         </header>
 
